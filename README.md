@@ -1,2 +1,2 @@
 # odin-recipes
-Pojma nemam sto pravam!!!!
+First project on gitHub
